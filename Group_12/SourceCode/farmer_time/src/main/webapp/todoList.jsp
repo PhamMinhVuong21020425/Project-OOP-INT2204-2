@@ -129,9 +129,9 @@
                               <div class="widget-content-wrapper">
                                 <div class="widget-content-left mr-2">
                                   <div class="custom-checkbox custom-control">
-                                    <input class="custom-control-input" id="exampleCustomCheckbox12"
+                                    <input class="custom-control-input" id="<%= element.taskId %>"
                                       type="checkbox" /><label class="custom-control-label"
-                                      for="exampleCustomCheckbox12">&nbsp;</label>
+                                      for="<%= element.taskId %>">&nbsp;</label>
                                   </div>
                                 </div>
                                 <div class="widget-content-left">
